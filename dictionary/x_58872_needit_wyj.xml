@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="591bbe7493adea10dc377fddfaba106b" extends="task" label="wyj" max_length="40" name="x_58872_needit_wyj" type="collection"/>
+</database>
